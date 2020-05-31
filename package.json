@@ -1,0 +1,16 @@
+{
+  "name": "WeatherAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WeatherCurrent.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://muthukumarsm.github.io/WeatherAPI",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
